@@ -1,0 +1,20 @@
+From Computer:
+
+Create new file in a computer folder
+Navigate to the folder in git bash (cd folder path)
+Edit the file if you want
+git add filename
+git commit
+git push
+
+
+From git online:
+
+Create a file or edit the a file
+Commit changes (bottom of the page)
+Pull request
+Merge 
+delete
+
+From computer git bash
+git pull
