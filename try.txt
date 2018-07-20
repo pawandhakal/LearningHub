@@ -16,5 +16,5 @@ Pull request
 Merge 
 delete
 
-From computer git bash
+From computer git bash (first go to the folder which you wanna update)
 git pull
